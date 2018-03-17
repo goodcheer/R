@@ -22,6 +22,7 @@ R studio도 R을 설치한 동일한 환경안에 설치해줘야 한다.
 [R studio의 버전관리 가이드](https://support.rstudio.com/hc/en-us/articles/200486138-Using-Different-Versions-of-R)에서 설명하는 
 interpreter 설정 방법은 conda에 설치한 경우엔 잘 되지 않는다.
 
+__install Rstudio__
 ```
 activate <envname>
 conda install -c r rstudiio
