@@ -25,5 +25,5 @@ interpreter 설정 방법은 conda에 설치한 경우엔 잘 되지 않습니�
 __install Rstudio__
 ```
 activate <envname>
-conda install -c r rstudiio
+conda install -c r rstudio
 ```
